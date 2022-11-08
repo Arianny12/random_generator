@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  /* display: flex; */
+  padding: 0;
+  background-color: #f4c2c2;
+  object-position: center center;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+}
+
+#title{
+  transition: all 2s;
+}
+
+#outputText{
+  font-size: 20px
+}
+/* why this doesnt work but when i do every single image it deos work????? */
+  .images{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+
+.images{
+  object-position: center center;
+
+}
+
+#baby_human{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+
+#bunny{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#bunny2{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#cat{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#catfrog{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#dog{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#dog2{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#ducks{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}#elephant{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#fox{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}#giraffe{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#lion{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#panda{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#pig{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#polar_bear{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
+#turtle{
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
+}
